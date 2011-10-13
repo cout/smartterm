@@ -1,4 +1,10 @@
 This is one of the first programs I ever wrote in C.
 
+It is a terminal emulation program for MS-DOS.  It isfFast enough to operate a
+14.4k modem (maybe higher) on just a 286.  Most programs can do this, but are
+slower when interpreting ANSI sequences and writing to the screen.  Never
+completed.  Based on an ANSI parser by Jason Farrell.
+
 Thanks to Saeger and all the other guys from #c on EFnet who helped me to learn
 C back in the mid '90s.
+
